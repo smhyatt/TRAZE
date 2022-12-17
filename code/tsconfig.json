@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "noImplicitAny": false,
+      "noEmitOnError": true,
+      "removeComments": false,
+      "sourceMap": true,
+      "useDefineForClassFields": true,
+      "target": "es6",
+      "module": "CommonJS",
+      "outDir": "dist" // .js files stored in dist/
+    },
+    "include": [
+      "**/*"
+    ]
+}

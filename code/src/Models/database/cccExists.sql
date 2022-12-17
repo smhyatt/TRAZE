@@ -1,0 +1,1 @@
+SELECT EXISTS(SELECT 1 FROM Carbon_Credit_Certificate WHERE id=$1);
