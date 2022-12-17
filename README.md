@@ -8,7 +8,7 @@ The University of Copenhagen, Department of Computer Science DIKU.
 
 August 20, 2022 to December 20, 2022
 
-Supervisor Fritz Henglein
+Supervisor Fritz Henglein \
 Co-Supervisor Christina Singh
 
 Abstract:
